@@ -2,7 +2,7 @@
 
 [Zhidong Zhu](https://scholar.google.com/citations?user=gMoJbSsAAAAJ&hl=zh-CN), Bangshu Xiong, [Zhibo Rao](https://scholar.google.com/citations?user=36YvjLAAAAAJ&hl=zh-CN), Jinhao Zhu, [Wenchao Li](https://scholar.google.com/citations?hl=zh-CN&user=ph9tt1oAAAAJ), Qiaofeng Ou, [Xing Li](https://scholar.google.com/citations?user=8IcXm6AAAAAJ&hl=zh-CN)
 
-The paper is currently under review.
+The paper is published on [The Visual Computer](https://link.springer.com/article/10.1007/s00371-025-03895-9).
 
 ## Model Performance Comparison
 <img src = "figs/WaveUIR_Comparison.png"> 
@@ -85,6 +85,16 @@ Performance results of the WaveUIR framework trained under the all-in-one settin
 The visual results can be downloaded [here](https://drive.google.com/drive/folders/1CELko-F95W_reox7KzM8HqEip675bABB).
 
 ## Citation
+If our work has been helpful to you, please consider citing:
+
+@article{Zhu_2025_WaveUIR,
+  title={WaveUIR: wavelet-based guided transformer model for efficient universal image restoration},
+  author={Zhidong, Zhu and Bangshu, Xiong and Zhibo, Rao and Jinhao, Zhu and Wenchao, Li and Qiaofeng, Ou and Xing, Li},
+  journal={The Visual Computer},
+  volume={1},
+  pages={1-15},
+  year={2025}
+}
 
 ## Contact
 Should you have any questions, please contact zhidongzhu@buaa.edu.cn
