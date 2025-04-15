@@ -86,7 +86,7 @@ The visual results can be downloaded [here](https://drive.google.com/drive/folde
 
 ## Citation
 If our work has been helpful to you, please consider citing:
-
+```
 @article{Zhu_2025_WaveUIR,
   title={WaveUIR: wavelet-based guided transformer model for efficient universal image restoration},
   author={Zhidong, Zhu and Bangshu, Xiong and Zhibo, Rao and Jinhao, Zhu and Wenchao, Li and Qiaofeng, Ou and Xing, Li},
@@ -95,6 +95,7 @@ If our work has been helpful to you, please consider citing:
   pages={1-15},
   year={2025}
 }
+```
 
 ## Contact
 Should you have any questions, please contact zhidongzhu@buaa.edu.cn
